@@ -6,15 +6,15 @@ This data analysis project utilizes Power BI to explore a dataset detailing clin
 
 ## Features
 
--## Key Features of the Dashboard
+## Key Features of the Dashboard
 
-#Demographic Segmentation: Dynamic filtering and visualizations showing symptom prevalence segmented by Age, Gender, and other relevant demographic variables.
+Demographic Segmentation: Dynamic filtering and visualizations showing symptom prevalence segmented by Age, Gender, and other relevant demographic variables.
 
-#Clinical Severity Mapping: Analysis of Y-BOCS scores mapped against duration of illness and treatment types.
+Clinical Severity Mapping: Analysis of Y-BOCS scores mapped against duration of illness and treatment types.
 
-#Symptom Subtype Hierarchy: Visual ranking of the most common obsessions (e.g., contamination, symmetry) and compulsions (e.g., checking, washing).
+Symptom Subtype Hierarchy: Visual ranking of the most common obsessions (e.g., contamination, symmetry) and compulsions (e.g., checking, washing).
 
-#Interactive Filtering: Allows clinicians and researchers to drill down into specific patient cohorts to compare outcomes.
+Interactive Filtering: Allows clinicians and researchers to drill down into specific patient cohorts to compare outcomes.
 
 ## Dashboard Preview
 
