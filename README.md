@@ -1,6 +1,8 @@
 # OCD Clinical Demographic Analysis Dashboard
 
-Interactive Power BI dashboard analyzing OCD patients’ demographics, clinical severity, comorbidities, and medication patterns. Includes sections on demographics, OCD severity trends, family history correlations, and treatment insights, enabling data-driven understanding and personalized care strategies.
+## Project Overview
+
+This data analysis project utilizes Power BI to explore a dataset detailing clinical and demographic information of patients diagnosed with Obsessive-Compulsive Disorder (OCD). The objective was to transform raw, patient-level data into actionable insights, helping to uncover patterns in disease presentation, demographic risk, and treatment efficacy.
 
 ## Features
 
