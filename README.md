@@ -6,10 +6,15 @@ This data analysis project utilizes Power BI to explore a dataset detailing clin
 
 ## Features
 
-- **Demographics Overview:** Visualize age, gender, and other key demographic data.
-- **Clinical Severity Trends:** Track changes and distributions in OCD severity.
-- **Family History Correlations:** Explore patterns in family history and OCD occurrence.
-- **Treatment Insights:** Analyze medication patterns and treatment outcomes.
+-## Key Features of the Dashboard
+
+#Demographic Segmentation: Dynamic filtering and visualizations showing symptom prevalence segmented by Age, Gender, and other relevant demographic variables.
+
+#Clinical Severity Mapping: Analysis of Y-BOCS scores mapped against duration of illness and treatment types.
+
+#Symptom Subtype Hierarchy: Visual ranking of the most common obsessions (e.g., contamination, symmetry) and compulsions (e.g., checking, washing).
+
+#Interactive Filtering: Allows clinicians and researchers to drill down into specific patient cohorts to compare outcomes.
 
 ## Dashboard Preview
 
