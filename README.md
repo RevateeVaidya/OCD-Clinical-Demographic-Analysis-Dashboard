@@ -4,7 +4,6 @@
 
 This data analysis project utilizes Power BI to explore a dataset detailing clinical and demographic information of patients diagnosed with Obsessive-Compulsive Disorder (OCD). The objective was to transform raw, patient-level data into actionable insights, helping to uncover patterns in disease presentation, demographic risk, and treatment efficacy.
 
-## Features
 
 ## Key Features of the Dashboard
 
