@@ -11,7 +11,9 @@ Interactive Power BI dashboard analyzing OCD patients’ demographics, clinical 
 
 ## Dashboard Preview
 
-<!-- Once you upload your screenshot to the `images/` folder, display it below like so: -->
+images/OCD- Demographics and Insights_1.jpeg
+images/OCD- Clinical Severity_2.jpeg
+images/OCD- Treatment_3.jpeg<!-- Once you upload your screenshot to the `images/` folder, display it below like so: -->
 <!-- ![OCD Dashboard Screenshot](images/dashboard-screenshot.png) -->
 
 ## How to Use
