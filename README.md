@@ -38,6 +38,8 @@ In terms of underlying risk, a strong familial component is evident, with 50.67%
 ## II. Clinical Presentation and Trends
 The dashboard clearly identifies the most prevalent clinical symptoms, which should serve as primary targets for intervention. The top obsessions are Harm-related (22.2%) and Symmetry (20.4%), highlighting the need for clinicians to skillfully manage distress related to intrusive thoughts. The resulting most frequent compulsions are Washing (21.4%) and Checking (21.07%), which represent the key behavioral targets for Exposure and Response Prevention (ERP) therapy.
 
+The data clearly show that OCD symptoms work together: the more severe a patient's unwanted thoughts (obsessions) are, the more extreme and time-consuming their rituals (compulsions) become.
+
 Historical trend analysis showed that OCD severity peaked in 2018, followed by a gradual decline in the most severe categories since 2020. This could suggest improved diagnostic processes or increased effectiveness of treatments implemented in the post-2018 period.
 
 ## III. Treatment Gaps and Medication Usage
