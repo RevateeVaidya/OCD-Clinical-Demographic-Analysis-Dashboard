@@ -15,6 +15,14 @@ Symptom Subtype Hierarchy: Visual ranking of the most common obsessions (e.g., c
 
 Interactive Filtering: Allows clinicians and researchers to drill down into specific patient cohorts to compare outcomes.
 
+
+## Tools & Technologies Used
+
+Data Cleaning & Modeling: Excel, Power Query (M Language), DAX
+
+Visualization & Reporting: Power BI Desktop
+
+
 ## Dashboard Preview
 
 images/OCD- Demographics and Insights_1.jpeg
@@ -22,6 +30,7 @@ images/OCD- Demographics and Insights_1.jpeg
 images/OCD- Clinical Severity_2.jpeg
 
 images/OCD- Treatment_3.jpeg
+
 
 ## How to Use
 
