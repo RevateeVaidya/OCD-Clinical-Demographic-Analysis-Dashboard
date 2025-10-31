@@ -66,10 +66,8 @@ images/OCD- Treatment_3.jpeg
 
 ## Repository Structure
 
-- `images/` — Store screenshots and documentation images here.
-- `data/` — (Optional) Data files used for the dashboard.
+- `images/` — Stored screenshots and documentation images here.
+- `Clinical & Demographic Analysis of OCD patients.pbix/` — Project raw file.
 - `README.md` — Project overview and documentation.
 
-## License
 
-[MIT](LICENSE)
